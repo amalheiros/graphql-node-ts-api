@@ -1,2 +1,2 @@
 # graphql-node-ts-api
-Boilerplate of NodeJS + TypeScript + GraphQL + Gulp
+A real simple NodeJS + TypeScript + GraphQL + Gulp boilerplate
